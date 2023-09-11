@@ -20,7 +20,6 @@ const FormLogin = () => {
         classname="bg-emerald-600 w-full duration-300 hover:bg-emerald-500">
         Sign In
       </Button>
-      <p className="pt-2">Did not have an account please <a className="text-green-500 hover:underline" href="/register">register</a></p>
     </form>
   )
 }
