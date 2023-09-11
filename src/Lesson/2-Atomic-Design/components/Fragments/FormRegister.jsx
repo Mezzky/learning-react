@@ -32,6 +32,7 @@ const FormRegister= () => {
         classname="bg-emerald-600 w-full duration-300 hover:bg-emerald-500">
         Register
       </Button>
+      <p className="pt-2">Already have an account <a className="text-green-500 hover:underline" href="/login">Login</a> here</p>
     </form>
   )
 }
