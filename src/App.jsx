@@ -1,7 +1,8 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
 // import Learn01 from './Lesson/1-Components-and-Props/learn01'
-import Learn02 from './Lesson/2-Atomic-Design/Learn02'
+// import Learn02 from './Lesson/2-Atomic-Design/Learn02'
+import Learn03 from './Lesson/3-React-Router-DOM/Learn3'
 
 const App = () => {
   return (
@@ -12,7 +13,8 @@ const App = () => {
       </div>
       <div className="Container grid place-items-center w-full pt-32 px-10">
         {/* <Learn01/> */}
-        <Learn02/>
+        {/* <Learn02/> */}
+        <Learn03/>
       </div>
     </>
   )
