@@ -1,1 +1,1 @@
-# L e arning React with Mezzky
+# Learning React with Mezzky
