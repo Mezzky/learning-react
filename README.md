@@ -1,1 +1,1 @@
-# Learning R e a ct with Mezzky
+# Learning R e a c t with Mezzky
