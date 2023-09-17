@@ -1,1 +1,1 @@
-# L e a r ning React with Mezzky
+# L e a r n ing React with Mezzky
