@@ -1,1 +1,1 @@
-# L earning React with Mezzky
+# L e arning React with Mezzky
