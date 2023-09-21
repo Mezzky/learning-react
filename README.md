@@ -1,1 +1,1 @@
-# Learning R e actJS with Mezzky
+# Learning R e a ctJS with Mezzky
