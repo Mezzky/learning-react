@@ -1,1 +1,1 @@
-# Learning R e a c t JS with Mezzky
+# Learning R e a c t J S with Mezzky
