@@ -1,1 +1,1 @@
-# Learning ReactJS w i th Mezzky
+# Learning ReactJS w ith Mezzky
