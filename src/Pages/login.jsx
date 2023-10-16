@@ -5,10 +5,6 @@ const login = () => {
   return (
     <AuthLayout title="Sign In" type="login">
       <FormLogin/>
-      <FormLogin/>
-      <FormLogin/>
-      <FormLogin/>
-      <FormLogin/>
     </AuthLayout>
   )
 }
