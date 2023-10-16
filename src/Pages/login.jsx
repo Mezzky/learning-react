@@ -8,6 +8,7 @@ const login = () => {
       <FormLogin/>
       <FormLogin/>
       <FormLogin/>
+      <FormLogin/>
     </AuthLayout>
   )
 }
