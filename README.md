@@ -1,1 +1,1 @@
-# L earning ReactJS with Mezzky
+# L e arning ReactJS with Mezzky
