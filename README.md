@@ -1,1 +1,1 @@
-# Learning ReactJS with Mezzky (Rizky
+# Learning ReactJS with Mezzky (Rizky Ryan
