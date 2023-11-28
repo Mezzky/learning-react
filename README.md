@@ -1,1 +1,1 @@
-# L e a r ning ReactJS with Mezzky
+# L e a rning ReactJS with Mezzky
