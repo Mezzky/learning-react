@@ -1,1 +1,1 @@
-# L e arning ReactJS with Mezzky (Rizky Ryan Sahadha)
+# L e a rning ReactJS with Mezzky (Rizky Ryan Sahadha)
