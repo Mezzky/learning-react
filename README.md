@@ -1,1 +1,1 @@
-# L e arning ReactJS with Mezzky (Rizky Ryan Sahadha)
+# L earning ReactJS with Mezzky (Rizky Ryan Sahadha)
