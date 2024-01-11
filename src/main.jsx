@@ -5,11 +5,12 @@ import './index.css'
 import ErrorPage from './Pages/404'
 import LoginPage from './Pages/login'
 import RegisterPage from './Pages/register'
+import HomePage from './Pages/home'
 
 const router = createBrowserRouter([
   {
     path : '/',
-    element : <div>Ini Home</div>,
+    element : <HomePage/>,
     errorElement : <ErrorPage/>
   },
   {
