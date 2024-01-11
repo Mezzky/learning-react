@@ -7,6 +7,7 @@ import LoginPage from './Pages/login'
 import RegisterPage from './Pages/register'
 import HomePage from './Pages/home'
 import NewLogin from './Pages/newlogin'
+import Header from './components/Fragments/Header'
 
 const router = createBrowserRouter([
   {
@@ -30,6 +31,7 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
+    <Header/>
     <RouterProvider router={router} />
   </React.StrictMode>,
 )
