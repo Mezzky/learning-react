@@ -8,6 +8,7 @@ import RegisterPage from './Pages/register'
 import HomePage from './Pages/home'
 import NewLogin from './Pages/newlogin'
 import Header from './components/Fragments/Header'
+import Contact from './Pages/contact'
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path : '/register',
     element : <RegisterPage/>,
+  },
+  {
+    path : '/contact',
+    element : <Contact/>,
   },
 ])
 
