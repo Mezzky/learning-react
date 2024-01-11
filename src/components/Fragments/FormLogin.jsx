@@ -17,7 +17,7 @@ const FormLogin = () => {
         placeholder="********" 
       />
       <Button 
-        classname="bg-emerald-600 w-full duration-300 hover:bg-emerald-500">
+        classname="bg-indigo-600 w-full duration-300 hover:bg-indigo-500">
         Sign In
       </Button>
     </form>
