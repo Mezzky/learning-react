@@ -1,1 +1,1 @@
-# L e a r n i n g ReactJS with Mezzky (Rizky Ryan Sahadha)
+# Learning ReactJS with Mezzky (Rizky Ryan Sahadha)
