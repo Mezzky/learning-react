@@ -6,12 +6,17 @@ import ErrorPage from './Pages/404'
 import LoginPage from './Pages/login'
 import RegisterPage from './Pages/register'
 import HomePage from './Pages/home'
+import NewLogin from './Pages/newlogin'
 
 const router = createBrowserRouter([
   {
     path : '/',
     element : <HomePage/>,
     errorElement : <ErrorPage/>
+  },
+  {
+    path : '/newlogin',
+    element : <NewLogin/>,
   },
   {
     path : '/login',

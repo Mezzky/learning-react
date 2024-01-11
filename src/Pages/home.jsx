@@ -9,6 +9,7 @@ const home = () => {
         <ul>
           <li><a href="./login">Login Page</a></li>
           <li><a href="./register">Register Page</a></li>
+          <li><a href="./newlogin">New Login Page</a></li>
         </ul>
       </nav>
     </div>
