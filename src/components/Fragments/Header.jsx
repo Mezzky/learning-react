@@ -19,7 +19,7 @@ const Header = () => {
           <a href="./register" className="hover:text-gray-300">
             Register
           </a>
-          <a href="#" className="hover:text-gray-300">
+          <a href="./contact" className="hover:text-gray-300">
             Contact
           </a>
         </nav>
