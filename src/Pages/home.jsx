@@ -4,7 +4,7 @@ import React from 'react'
 const home = () => {
   return (
     <div>
-      <h1 className='font-bold text-blue-400 text-5xl'>Welcome to my Website</h1>
+      <h1 c lassName='font-bold text-blue-400 text-5xl'>Welcome to my Website</h1>
       <nav>
         <ul>
           <li><a href="./login">Login Page</a></li>
